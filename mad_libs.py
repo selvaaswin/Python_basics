@@ -1,0 +1,6 @@
+colour = input("enter a colour :")
+noun = input("enter a noun :")
+who = input("enter a name :")
+print("roses are "+ colour)
+print(noun +" are blue")
+print("i love "+ who)
